@@ -5,7 +5,7 @@
 This project demonstrates how to create and analyze an online sales dataset using MySQL. It includes table creation, schema modifications, and analytical queries for revenue, transactions, and sales insights.
 
 🗄️ Database & Table Setup
--- Select database
+**Select database**
 USE online_sales;
 
 -- Create table
