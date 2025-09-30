@@ -182,3 +182,7 @@ and insights** for your `saless` table.
 
 FROM saless
 WHERE total_revenue IS NULL;
+
+
+
+his project manages and analyzes an online sales dataset in MySQL. It includes creating a saless table with columns for transaction details, product information, sales, and region, followed by data cleaning such as checking for null values and converting the Date column to a proper DATE type. Column names with spaces were renamed for consistency, and queries were written to extract month and year information, calculate monthly and yearly total revenue, count transactions, compute average and total sales by month, and rank months by revenue performance. The project provides insights into sales trends, identifies high- and low-revenue months, and ensures the dataset is structured and clean for further analysis.
